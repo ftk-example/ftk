@@ -1,0 +1,34 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number: 
+Evidence Number: 
+Unique Description: 
+Examiner: 
+Notes: 
+
+--------------------------------------------------------------
+
+Information for C:\Users\AGA56148\ftk_test.ad1:
+[Computed Hashes]
+ MD5 checksum:    eada0fd5017e25b641a7d331d9ed135a
+ SHA1 checksum:   898892ebbf0dd6459b2202a716862c7b1309320b
+
+Image information:
+ Acquisition started:   Tue Aug 24 10:13:34 2021
+ Acquisition finished:  Tue Aug 24 10:13:34 2021
+ Segment list:
+  C:\Users\AGA56148\ftk_test.ad1
+
+Image Verification Results:
+ Verification started:  Tue Aug 24 10:13:34 2021
+ Verification finished: Tue Aug 24 10:13:34 2021
+ MD5 checksum:    eada0fd5017e25b641a7d331d9ed135a : verified
+ SHA1 checksum:   898892ebbf0dd6459b2202a716862c7b1309320b : verified
+
+Image Verification Results:
+ Verification started:  Tue Aug 24 10:17:52 2021
+ Verification finished: Tue Aug 24 10:17:52 2021
+ MD5 checksum:    eada0fd5017e25b641a7d331d9ed135a : verified
+ SHA1 checksum:   898892ebbf0dd6459b2202a716862c7b1309320b : verified
